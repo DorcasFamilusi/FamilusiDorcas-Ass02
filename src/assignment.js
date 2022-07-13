@@ -14,7 +14,7 @@ const assignment = {};
  * @returns number the sum of the numbers
  */
 
-let arrayOfNumbers = [1,2,3,4,5,6,7,8,9,10]
+
 
 function sumOfNumbers(arrayOfNumbers) {
     return arrayOfNumbers.reduce(function(number, value){
@@ -22,7 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
     },0);
 }
 
-console.log(sumOfNumbers(arrayOfNumbers))
+
 
 
 
@@ -48,7 +48,6 @@ function countEvenNumbers(arrayOfNumbers) {
   return evenNumbers.length
 }
 
-console.log(countEvenNumbers(arrayOfNumbers))
 
 
 
