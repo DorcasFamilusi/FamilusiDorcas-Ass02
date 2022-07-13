@@ -25,7 +25,7 @@ function sumOfNumbers(arrayOfNumbers) {
 console.log(sumOfNumbers(arrayOfNumbers))
 
 
-// assignment.sumOfNumbers = sumOfNumbers;
+
 
 
 
@@ -50,7 +50,7 @@ function countEvenNumbers(arrayOfNumbers) {
 
 console.log(countEvenNumbers(arrayOfNumbers))
 
-// assignment.countEvenNumbers = countEvenNumbers;
+
 
 
 
@@ -77,7 +77,7 @@ console.log(countEvenNumbers(arrayOfNumbers))
 // function celsiusToFahrenheit(arrayOfNumbers) {
     // return arrayOfNumbers;
 // }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+
 
 
 // ========================
