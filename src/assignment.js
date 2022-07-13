@@ -48,6 +48,7 @@ function countEvenNumbers(arrayOfNumbers) {
 }
 
 console.log(countEvenNumbers(arrayOfNumbers))
+
 // assignment.countEvenNumbers = countEvenNumbers;
 
 
